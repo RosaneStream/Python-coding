@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+# -*- coding: utf-8 by Rosane Ribeiro -*-
 import json  # Importing the JSON module for handling JSON data
 import os  # Importing the OS module for system-related operations
 import time  # Importing the Time module for time-related operations
